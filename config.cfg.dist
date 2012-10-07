@@ -1,0 +1,15 @@
+[Twitter]
+ConsumerKey = 
+ConsumerSecret = 
+AccessToken = 
+AccessTokenSecret = 
+
+[SmugMug]
+ApiKey = 
+Gallery = 
+LinkType = 
+Nickname = 
+
+[YOURLS]
+ApiKey = 
+Endpoint = 
